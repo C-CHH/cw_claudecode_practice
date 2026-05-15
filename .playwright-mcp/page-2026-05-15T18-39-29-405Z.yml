@@ -1,0 +1,178 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e56]: Create a pricing card component
+            - img [ref=e59]
+          - generic [ref=e98]:
+            - img [ref=e101]
+            - generic [ref=e106]:
+              - generic [ref=e109]: Creating App.jsx
+              - separator [ref=e110]
+              - paragraph [ref=e112]: "Now let me create the PricingCard component:"
+              - generic [ref=e115]: Creating PricingCard.jsx
+              - separator [ref=e116]
+              - generic [ref=e117]:
+                - paragraph [ref=e118]: "Done! I've created a modern pricing card component with:"
+                - list [ref=e119]:
+                  - listitem [ref=e120]:
+                    - strong [ref=e121]: Bold & Modern design
+                    - text: ": Dark slate background with violet accents"
+                  - listitem [ref=e122]:
+                    - strong [ref=e123]: Highlighted card
+                    - text: ": The \"Professional\" tier scales up and has a gradient border effect"
+                  - listitem [ref=e124]:
+                    - strong [ref=e125]: Glass-morphism
+                    - text: ": Backdrop blur and semi-transparent backgrounds"
+                  - listitem [ref=e126]:
+                    - strong [ref=e127]: Gradient text
+                    - text: ": Price uses gradient text for visual impact"
+                  - listitem [ref=e128]:
+                    - strong [ref=e129]: Smooth animations
+                    - text: ": Hover effects with transitions and subtle transforms"
+                  - listitem [ref=e130]:
+                    - strong [ref=e131]: Feature list
+                    - text: ": Checkmark icons with clean spacing"
+                  - listitem [ref=e132]:
+                    - strong [ref=e133]: Responsive
+                    - text: ": Grid layout that stacks on mobile"
+                - paragraph [ref=e134]:
+                  - text: "The component accepts props for customization:"
+                  - code [ref=e141]: name
+                  - text: ","
+                  - code [ref=e142]: price
+                  - text: ","
+                  - code [ref=e143]: description
+                  - text: ","
+                  - code [ref=e144]: features
+                  - text: ","
+                  - code [ref=e145]: cta
+                  - text: ", and"
+                  - code [ref=e146]: highlighted
+                  - text: .
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [ref=e31]
+          - tab "Code" [active] [selected] [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - generic [ref=e147]:
+        - generic [ref=e153]:
+          - generic [ref=e154]:
+            - generic [ref=e155] [cursor=pointer]:
+              - img [ref=e156]
+              - img [ref=e158]
+              - generic [ref=e160]: components
+            - generic [ref=e163] [cursor=pointer]:
+              - img [ref=e164]
+              - generic [ref=e169]: PricingCard.jsx
+          - generic [ref=e171] [cursor=pointer]:
+            - img [ref=e172]
+            - generic [ref=e177]: App.jsx
+        - separator [ref=e178]
+        - code [ref=e183]:
+          - generic [ref=e184]:
+            - generic [ref=e186]:
+              - generic [ref=e189]: "1"
+              - generic [ref=e191]: "2"
+              - generic [ref=e192]:
+                - generic [ref=e193] [cursor=pointer]: 
+                - generic [ref=e194]: "3"
+              - generic [ref=e195]:
+                - generic [ref=e196] [cursor=pointer]: 
+                - generic [ref=e197]: "4"
+              - generic [ref=e198]:
+                - generic [ref=e199] [cursor=pointer]: 
+                - generic [ref=e200]: "5"
+              - generic [ref=e202]:
+                - generic [ref=e203] [cursor=pointer]: 
+                - generic [ref=e204]: "6"
+              - generic [ref=e206]:
+                - generic [ref=e207] [cursor=pointer]: 
+                - generic [ref=e208]: "7"
+              - generic [ref=e210]: "8"
+              - generic [ref=e212]: "9"
+              - generic [ref=e214]: "10"
+              - generic [ref=e215]:
+                - generic [ref=e216] [cursor=pointer]: 
+                - generic [ref=e217]: "11"
+              - generic [ref=e219]: "12"
+              - generic [ref=e221]: "13"
+              - generic [ref=e223]: "14"
+              - generic [ref=e225]: "15"
+              - generic [ref=e227]: "16"
+              - generic [ref=e229]: "17"
+              - generic [ref=e231]: "18"
+              - generic [ref=e233]: "19"
+              - generic [ref=e234]:
+                - generic [ref=e235] [cursor=pointer]: 
+                - generic [ref=e236]: "20"
+              - generic [ref=e238]: "21"
+              - generic [ref=e240]: "22"
+              - generic [ref=e242]: "23"
+              - generic [ref=e243]:
+                - generic [ref=e244] [cursor=pointer]: 
+                - generic [ref=e245]: "24"
+              - generic [ref=e247]: "25"
+              - generic [ref=e249]: "26"
+              - generic [ref=e251]: "27"
+              - generic [ref=e253]: "28"
+              - generic [ref=e255]: "29"
+              - generic [ref=e257]: "30"
+              - generic [ref=e259]: "31"
+              - generic [ref=e261]: "32"
+              - generic [ref=e263]: "33"
+              - generic [ref=e264]:
+                - generic [ref=e265] [cursor=pointer]: 
+                - generic [ref=e266]: "34"
+            - generic [ref=e460]:
+              - generic [ref=e462]: import PricingCard from '@/components/PricingCard';
+              - generic [ref=e465]: "export default function App() {"
+              - generic [ref=e467]: return (
+              - generic [ref=e469]: <div className="min-h-screen bg-gradient-to-br from-slate-950
+              - generic [ref=e471]: via-slate-900 to-slate-950 flex items-center justify-center p-4">
+              - generic [ref=e473]: <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl
+              - generic [ref=e475]: w-full">
+              - generic [ref=e477]: <PricingCard
+              - generic [ref=e479]: name="Starter"
+              - generic [ref=e481]: price="29"
+              - generic [ref=e483]: description="Perfect for getting started"
+              - generic [ref=e485]: "features={["
+              - generic [ref=e487]: "'Up to 10 projects',"
+              - generic [ref=e489]: "'5GB storage',"
+              - generic [ref=e491]: "'Basic analytics',"
+              - generic [ref=e493]: "'Community support',"
+              - generic [ref=e495]: "]}"
+              - generic [ref=e497]: cta="Get Started"
+              - generic [ref=e499]: "highlighted={false}"
+              - generic [ref=e501]: />
+              - generic [ref=e503]: <PricingCard
+              - generic [ref=e505]: name="Professional"
+              - generic [ref=e507]: price="79"
+              - generic [ref=e509]: description="For growing teams"
+              - generic [ref=e511]: "features={["
+              - generic [ref=e513]: "'Unlimited projects',"
+              - generic [ref=e515]: "'500GB storage',"
+              - generic [ref=e517]: "'Advanced analytics',"
+              - generic [ref=e519]: "'Priority support',"
+              - generic [ref=e521]: "'Custom integrations',"
+              - generic [ref=e523]: "]}"
+              - generic [ref=e525]: cta="Start Free Trial"
+              - generic [ref=e527]: "highlighted={true}"
+              - generic [ref=e529]: />
+              - generic [ref=e531]: <PricingCard
+            - textbox "Editor content" [ref=e533]
+  - alert [ref=e46]
+  - generic [ref=e534]:
+    - alert
+    - alert

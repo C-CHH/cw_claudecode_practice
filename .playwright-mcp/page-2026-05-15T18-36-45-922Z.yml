@@ -1,0 +1,140 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e56]: Create a pricing card component
+            - img [ref=e59]
+          - generic [ref=e98]:
+            - img [ref=e101]
+            - generic [ref=e106]:
+              - generic [ref=e109]: Creating App.jsx
+              - separator [ref=e110]
+              - paragraph [ref=e112]: "Now let me create the PricingCard component:"
+              - generic [ref=e115]: Creating PricingCard.jsx
+              - separator [ref=e116]
+              - generic [ref=e117]:
+                - paragraph [ref=e118]: "Done! I've created a modern pricing card component with:"
+                - list [ref=e119]:
+                  - listitem [ref=e120]:
+                    - strong [ref=e121]: Bold & Modern design
+                    - text: ": Dark slate background with violet accents"
+                  - listitem [ref=e122]:
+                    - strong [ref=e123]: Highlighted card
+                    - text: ": The \"Professional\" tier scales up and has a gradient border effect"
+                  - listitem [ref=e124]:
+                    - strong [ref=e125]: Glass-morphism
+                    - text: ": Backdrop blur and semi-transparent backgrounds"
+                  - listitem [ref=e126]:
+                    - strong [ref=e127]: Gradient text
+                    - text: ": Price uses gradient text for visual impact"
+                  - listitem [ref=e128]:
+                    - strong [ref=e129]: Smooth animations
+                    - text: ": Hover effects with transitions and subtle transforms"
+                  - listitem [ref=e130]:
+                    - strong [ref=e131]: Feature list
+                    - text: ": Checkmark icons with clean spacing"
+                  - listitem [ref=e132]:
+                    - strong [ref=e133]: Responsive
+                    - text: ": Grid layout that stacks on mobile"
+                - paragraph [ref=e134]:
+                  - text: "The component accepts props for customization:"
+                  - code [ref=e135]: name
+                  - text: ","
+                  - code [ref=e136]: price
+                  - text: ","
+                  - code [ref=e137]: description
+                  - text: ","
+                  - code [ref=e138]: features
+                  - text: ","
+                  - code [ref=e139]: cta
+                  - text: ", and"
+                  - code [ref=e140]: highlighted
+                  - text: .
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - iframe [ref=e78]:
+        - generic [ref=f2e4]:
+          - generic [ref=f2e7]:
+            - generic [ref=f2e8]:
+              - heading "Starter" [level=3] [ref=f2e9]
+              - paragraph [ref=f2e10]: Perfect for getting started
+            - generic [ref=f2e12]:
+              - generic [ref=f2e13]: "29"
+              - generic [ref=f2e14]: /month
+            - generic [ref=f2e15]:
+              - generic [ref=f2e16]:
+                - img [ref=f2e18]
+                - generic [ref=f2e20]: Up to 10 projects
+              - generic [ref=f2e21]:
+                - img [ref=f2e23]
+                - generic [ref=f2e25]: 5GB storage
+              - generic [ref=f2e26]:
+                - img [ref=f2e28]
+                - generic [ref=f2e30]: Basic analytics
+              - generic [ref=f2e31]:
+                - img [ref=f2e33]
+                - generic [ref=f2e35]: Community support
+            - button "Get Started" [ref=f2e36] [cursor=pointer]
+          - generic [ref=f2e39]:
+            - generic [ref=f2e41]: MOST POPULAR
+            - generic [ref=f2e42]:
+              - generic [ref=f2e43]:
+                - heading "Professional" [level=3] [ref=f2e44]
+                - paragraph [ref=f2e45]: For growing teams
+              - generic [ref=f2e47]:
+                - generic [ref=f2e48]: "79"
+                - generic [ref=f2e49]: /month
+              - generic [ref=f2e50]:
+                - generic [ref=f2e51]:
+                  - img [ref=f2e53]
+                  - generic [ref=f2e55]: Unlimited projects
+                - generic [ref=f2e56]:
+                  - img [ref=f2e58]
+                  - generic [ref=f2e60]: 500GB storage
+                - generic [ref=f2e61]:
+                  - img [ref=f2e63]
+                  - generic [ref=f2e65]: Advanced analytics
+                - generic [ref=f2e66]:
+                  - img [ref=f2e68]
+                  - generic [ref=f2e70]: Priority support
+                - generic [ref=f2e71]:
+                  - img [ref=f2e73]
+                  - generic [ref=f2e75]: Custom integrations
+              - button "Start Free Trial" [ref=f2e76] [cursor=pointer]
+          - generic [ref=f2e79]:
+            - generic [ref=f2e80]:
+              - heading "Enterprise" [level=3] [ref=f2e81]
+              - paragraph [ref=f2e82]: For large organizations
+            - generic [ref=f2e85]: Custom
+            - generic [ref=f2e86]:
+              - generic [ref=f2e87]:
+                - img [ref=f2e89]
+                - generic [ref=f2e91]: Everything in Pro
+              - generic [ref=f2e92]:
+                - img [ref=f2e94]
+                - generic [ref=f2e96]: Unlimited storage
+              - generic [ref=f2e97]:
+                - img [ref=f2e99]
+                - generic [ref=f2e101]: Dedicated account manager
+              - generic [ref=f2e102]:
+                - img [ref=f2e104]
+                - generic [ref=f2e106]: SLA guarantee
+              - generic [ref=f2e107]:
+                - img [ref=f2e109]
+                - generic [ref=f2e111]: Custom contracts
+            - button "Contact Sales" [ref=f2e112] [cursor=pointer]
+  - alert [ref=e46]

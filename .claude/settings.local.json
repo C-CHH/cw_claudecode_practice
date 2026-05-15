@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /c/claudecode/src/app/[projectId]/)",
+      "Bash(npm run:*)",
+      "Bash(npm audit:*)",
+      "Bash(npm install:*)",
+      "Bash(cd C:/claudecode && npx vitest run src/hooks/__tests__/use-auth.test.ts 2>&1)",
+      "Bash(Get-ChildItem -Path \"C:\\\\claudecode\" -Force)",
+      "Bash(Select-Object Name, Mode)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\claudecode\\\\.claude\" -Recurse | Select-Object FullName, @{Name=\"Size\";Expression={if\\($_.PSIsContainer\\){\"<DIR>\"}else{$_.Length}}} | Format-Table -AutoSize)",
+      "Bash(npx vitest *)",
+      "Bash(curl *)",
+      "Bash(npx playwright *)",
+      "Bash(node -e \"require\\('playwright'\\)\")",
+      "Bash(node -e \"require\\('@playwright/test'\\)\")",
+      "Bash(node *)",
+      "PowerShell(Start-Process \"msedge\" -ArgumentList \"http://localhost:3000\")",
+      "PowerShell(Start-Process \"chrome\" -ArgumentList \"http://localhost:3000\")",
+      "Bash(claude --debug)",
+      "Bash(claude mcp *)",
+      "Bash(npx @playwright/mcp@latest --help)",
+      "Bash(claude *)",
+      "Bash(where npx *)",
+      "Bash(cmd *)",
+      "PowerShell(npx @playwright/mcp@latest --version 2>&1)",
+      "PowerShell(npm install *)",
+      "PowerShell(npm *)",
+      "PowerShell(Get-Command *)",
+      "PowerShell([System.Environment]::SetEnvironmentVariable\\(\"NODE_OPTIONS\", \"--use-system-ca\", \"User\"\\))",
+      "PowerShell([System.Environment]::GetEnvironmentVariable\\(\"NODE_OPTIONS\", \"User\"\\))",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_type",
+      "mcp__playwright__browser_wait_for",
+      "mcp__playwright__browser_click"
+    ]
+  }
+}

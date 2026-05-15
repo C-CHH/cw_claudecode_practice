@@ -1,0 +1,36 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e56]: Create a pricing card component
+            - img [ref=e59]
+          - generic [ref=e62]:
+            - img [ref=e65]
+            - generic [ref=e70]:
+              - generic [ref=e73]: Creating App.jsx
+              - separator [ref=e74]
+              - paragraph [ref=e76]: "Now I'll create the PricingCard component:"
+              - generic [ref=e77]:
+                - img [ref=e78]
+                - generic [ref=e80]: Generating...
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - iframe [ref=e81]:
+        - generic [ref=f9e5]:
+          - heading "Simple, transparent pricing" [level=1] [ref=f9e6]
+          - paragraph [ref=f9e7]: Choose the plan that works for you
+  - alert [ref=e46]

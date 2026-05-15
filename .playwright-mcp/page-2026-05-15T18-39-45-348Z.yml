@@ -1,0 +1,182 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e52]:
+          - generic [ref=e53]:
+            - generic [ref=e56]: Create a pricing card component
+            - img [ref=e59]
+          - generic [ref=e98]:
+            - img [ref=e101]
+            - generic [ref=e106]:
+              - generic [ref=e109]: Creating App.jsx
+              - separator [ref=e110]
+              - paragraph [ref=e112]: "Now let me create the PricingCard component:"
+              - generic [ref=e115]: Creating PricingCard.jsx
+              - separator [ref=e116]
+              - generic [ref=e117]:
+                - paragraph [ref=e118]: "Done! I've created a modern pricing card component with:"
+                - list [ref=e119]:
+                  - listitem [ref=e120]:
+                    - strong [ref=e121]: Bold & Modern design
+                    - text: ": Dark slate background with violet accents"
+                  - listitem [ref=e122]:
+                    - strong [ref=e123]: Highlighted card
+                    - text: ": The \"Professional\" tier scales up and has a gradient border effect"
+                  - listitem [ref=e124]:
+                    - strong [ref=e125]: Glass-morphism
+                    - text: ": Backdrop blur and semi-transparent backgrounds"
+                  - listitem [ref=e126]:
+                    - strong [ref=e127]: Gradient text
+                    - text: ": Price uses gradient text for visual impact"
+                  - listitem [ref=e128]:
+                    - strong [ref=e129]: Smooth animations
+                    - text: ": Hover effects with transitions and subtle transforms"
+                  - listitem [ref=e130]:
+                    - strong [ref=e131]: Feature list
+                    - text: ": Checkmark icons with clean spacing"
+                  - listitem [ref=e132]:
+                    - strong [ref=e133]: Responsive
+                    - text: ": Grid layout that stacks on mobile"
+                - paragraph [ref=e134]:
+                  - text: "The component accepts props for customization:"
+                  - code [ref=e535]: name
+                  - text: ","
+                  - code [ref=e536]: price
+                  - text: ","
+                  - code [ref=e537]: description
+                  - text: ","
+                  - code [ref=e538]: features
+                  - text: ","
+                  - code [ref=e539]: cta
+                  - text: ", and"
+                  - code [ref=e540]: highlighted
+                  - text: .
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [ref=e31]
+          - tab "Code" [selected] [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - generic [ref=e147]:
+        - generic [ref=e153]:
+          - generic [ref=e154]:
+            - generic [ref=e155] [cursor=pointer]:
+              - img [ref=e156]
+              - img [ref=e158]
+              - generic [ref=e160]: components
+            - generic [ref=e163] [cursor=pointer]:
+              - img [ref=e164]
+              - generic [ref=e169]: PricingCard.jsx
+          - generic [ref=e171] [cursor=pointer]:
+            - img [ref=e172]
+            - generic [ref=e177]: App.jsx
+        - separator [ref=e178]
+        - code [ref=e183]:
+          - generic [ref=e184]:
+            - generic [ref=e186]:
+              - generic [ref=e541]:
+                - generic [ref=e542] [cursor=pointer]: 
+                - generic [ref=e543]: "1"
+              - generic [ref=e191]: "2"
+              - generic [ref=e545]: "3"
+              - generic [ref=e547]: "4"
+              - generic [ref=e549]: "5"
+              - generic [ref=e551]: "6"
+              - generic [ref=e553]: "7"
+              - generic [ref=e554]:
+                - generic [ref=e555] [cursor=pointer]: 
+                - generic [ref=e556]: "8"
+              - generic [ref=e557]:
+                - generic [ref=e558] [cursor=pointer]: 
+                - generic [ref=e559]: "9"
+              - generic [ref=e560]:
+                - generic [ref=e561] [cursor=pointer]: 
+                - generic [ref=e562]: "10"
+              - generic [ref=e563]:
+                - generic [ref=e564] [cursor=pointer]: 
+                - generic [ref=e565]: "11"
+              - generic [ref=e219]: "12"
+              - generic [ref=e221]: "13"
+              - generic [ref=e566]:
+                - generic [ref=e567] [cursor=pointer]: 
+                - generic [ref=e568]: "14"
+              - generic [ref=e225]: "15"
+              - generic [ref=e569]:
+                - generic [ref=e570] [cursor=pointer]: 
+                - generic [ref=e571]: "16"
+              - generic [ref=e229]: "17"
+              - generic [ref=e231]: "18"
+              - generic [ref=e233]: "19"
+              - generic [ref=e572]:
+                - generic [ref=e573] [cursor=pointer]: 
+                - generic [ref=e574]: "20"
+              - generic [ref=e575]:
+                - generic [ref=e576] [cursor=pointer]: 
+                - generic [ref=e577]: "21"
+              - generic [ref=e578]:
+                - generic [ref=e579] [cursor=pointer]: 
+                - generic [ref=e580]: "22"
+              - generic [ref=e242]: "23"
+              - generic [ref=e582]: "24"
+              - generic [ref=e247]: "25"
+              - generic [ref=e583]:
+                - generic [ref=e584] [cursor=pointer]: 
+                - generic [ref=e585]: "26"
+              - generic [ref=e251]: "27"
+              - generic [ref=e586]:
+                - generic [ref=e587] [cursor=pointer]: 
+                - generic [ref=e588]: "28"
+              - generic [ref=e589]:
+                - generic [ref=e590] [cursor=pointer]: 
+                - generic [ref=e591]: "29"
+              - generic [ref=e598]: "30"
+            - generic [ref=e460]:
+              - generic [ref=e746]: "export default function PricingCard({"
+              - generic [ref=e748]: name,
+              - generic [ref=e750]: price,
+              - generic [ref=e752]: description,
+              - generic [ref=e754]: features,
+              - generic [ref=e756]: cta,
+              - generic [ref=e758]: highlighted = false,
+              - generic [ref=e760]: "}) {"
+              - generic [ref=e762]: return (
+              - generic [ref=e764]: <div
+              - generic [ref=e766]: "className={`relative group transition-all duration-300 ${"
+              - generic [ref=e768]: "highlighted ? 'md:scale-105' : ''"
+              - generic [ref=e770]: "}`}"
+              - generic [ref=e772]: ">"
+              - generic [ref=e774]: "{/* Gradient border effect */}"
+              - generic [ref=e776]: "{highlighted && ("
+              - generic [ref=e778]: <div className="absolute inset-0 bg-gradient-to-r from-violet-600
+              - generic [ref=e780]: ")}"
+              - generic [ref=e783]: <div
+              - generic [ref=e785]: "className={`relative rounded-2xl backdrop-blur-sm transition-all"
+              - generic [ref=e787]: highlighted
+              - generic [ref=e789]: "? 'bg-gradient-to-br from-violet-950/80 to-violet-900/60 border"
+              - generic [ref=e791]: ": 'bg-slate-800/40 border border-slate-700/50"
+              - generic [ref=e793]: "}`}"
+              - generic [ref=e795]: ">"
+              - generic [ref=e797]: "{/* Badge for highlighted card */}"
+              - generic [ref=e799]: "{highlighted && ("
+              - generic [ref=e801]: <div className="absolute -top-4 left-1/2 -translate-x-1/2">
+              - generic [ref=e803]: via-violet-500 to-violet-600 rounded-2xl opacity-0
+              - generic [ref=e805]: group-hover:opacity-100 transition-opacity duration-300 blur" />
+              - generic [ref=e807]: "duration-300 ${"
+              - generic [ref=e809]: border-violet-500/50'
+              - generic [ref=e811]: hover:border-slate-600/80'
+              - generic [ref=e813]: <span className="inline-block bg-gradient-to-r from-violet-500
+              - generic [ref=e815]: to-violet-600 text-white text-xs font-semibold px-4 py-1
+            - textbox "Editor content" [ref=e533]
+  - alert [ref=e46]
+  - generic [ref=e534]:
+    - alert
+    - alert
